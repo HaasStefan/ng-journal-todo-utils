@@ -1,0 +1,23 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "keywords": [
+    "angular"
+  ],
+  "author": {
+    "name": "Stefan Haas",
+    "email": "angularjournal@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HaasStefan/ng-journal-todo-utils.git"
+  },
+  "peerDependencies": {
+    "@angular/common": "^16.1.0",
+    "@angular/core": "^16.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
